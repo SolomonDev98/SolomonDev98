@@ -22,8 +22,8 @@ I'm a passionate **Backend/Cloud Support Engineer** with experience in **Bash, p
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://solomon-dev98.github.io/Html_Portfolio/)
-- **[LinkedIn]** https://www.linkedin.com/in/solomon-softwareengineer/
-- **[Twitter]** https://x.com/NinoProductionz
+- **[Personal Website]**(https://solomon-dev98.github.io/Html_Portfolio/)
+- **[LinkedIn]** (https://www.linkedin.com/in/solomon-softwareengineer/)
+- **[Twitter]** (https://x.com/NinoProductionz)
 
 
