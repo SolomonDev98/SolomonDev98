@@ -10,10 +10,10 @@ I'm a passionate **Backend/Cloud Support Engineer** with experience in **Bash, p
 - 🔭 Working on: **Bash Piping, CI/CD pipelines**
 - 🌍 Languages: **C, Python, Bash, JavaScript(Node.js)**
 - 📫 How to reach me: **solomonolungweonwi@gmail.com**
-- ⚡ Fun fact: **I am musician and I play the Piano**
+- ⚡ Fun fact: **I am a musician and I play the Piano**
 
 ## My Skills 🧠
-![https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue]
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
