@@ -1,29 +1,68 @@
-# Hi there, I'm Solomon! 👋
+# 👋 Hi, I'm Solomon Nwachukwu Olungweonwi
 
-## About Me 🚀
+## 🚀 About Me
 
-I'm a passionate **Backend/Cloud Support Engineer** with experience in **Bash, python, Node.js, PostgreSQL, Networking, and Cloud computing**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a self-driven Cloud and DevOps Engineer in training — combining AWS, automation, and real-world engineering to build scalable systems. Passionate about learning in public and growing into a world-class engineer.
 
-- 🌱 Currently learning: **AWS Cloud Practitioner, AWS Solutions Architect and AWS Developer**
-- 🔭 Working on: **Bash Piping, CI/CD pipelines**
-- 🌍 Languages: **C, Python, Bash, JavaScript(Node.js)**
-- 📫 How to reach me: **solomonolungweonwi@gmail.com**
-- ⚡ Fun fact: **I am a musician and I play the Piano**
+- 🎓 B.Tech in Electrical Engineering (Electronics)
+- ✅ AWS Certified Cloud Practitioner (CCP)
+- 🎯 Preparing for AWS Solutions Architect Associate (SAA)
+- 🔧 Learning DevOps tools: Docker, Git, GitHub Actions, Terraform, Linux, Bash
+- 🌍 Based in Nigeria | 🇫🇮 Preparing for a Master’s in Information Technology in Finland
+- 🗣 Learning Finnish — aiming for B1 fluency
 
-## My Skills 🧠
-![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
+## 🧰 Tech Stack & Tools
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Get in Touch 📬
+---
 
-- **[Personal Website]**(https://solomon-dev98.github.io/Html_Portfolio/)
-- **[LinkedIn]** (https://www.linkedin.com/in/solomon-softwareengineer/)
-- **[Twitter]** (https://x.com/NinoProductionz)
+## 🎯 2025 Learning Goals
 
+- 🚀 Pass the AWS Solutions Architect Associate (SAA) exam
+- 🔧 Build and document 10+ DevOps and Cloud Engineering projects
+- ✍️ Publish weekly blogs on DevOps, AWS, and hands-on labs
+- 🎓 Apply to Master's programs in Finland (Åbo Akademi University and others)
+- 🌐 Land a cloud or DevOps engineering job (remote or relocation)
 
+---
+
+## 🧩 Projects (Coming Soon)
+
+Stay tuned! I'm currently preparing for my AWS SAA certification and will start building real-world projects right after. I’ll be sharing:
+- 🚀 AWS-hosted infrastructure with Terraform
+- 🔁 CI/CD pipelines with GitHub Actions
+- 🗂️ Data Engineering pipelines using AWS native services
+
+---
+
+## 📝 Latest Blog Posts
+
+Follow my journey as I learn, build, and grow in public:
+
+- [How I Passed the AWS CCP Exam](https://hashnode.com/@CodeWithSolomon)
+- [My DevOps Learning Roadmap](https://dev.to/solomondev98)
+
+(*More blog posts coming soon...*)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/solomon-softwareengineer/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@CodeWithSolomon)
+[![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/solomondev98)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SolomonDev98)
+
+---
+
+🛠 *Built with Markdown, fueled by curiosity, and focused on first-principles learning.*
