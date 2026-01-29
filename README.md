@@ -6,7 +6,7 @@ I'm a self-driven Cloud and DevOps Engineer in training — combining AWS, autom
 
 - 🎓 B.Tech in Electrical Engineering (Electronics)
 - ✅ AWS Certified Cloud Practitioner (CCP)
-- 🎯 Preparing for AWS Solutions Architect Associate (SAA)
+- ✅ AWS Certified Solutions Architect Associate (SAA)
 - 🔧 Learning DevOps tools: Docker, Git, GitHub Actions, Terraform, Linux, Bash
 - 🌍 Based in Nigeria | 🇫🇮 Preparing for a Master’s in Information Technology in Finland
 - 🗣 Learning Finnish — aiming for B1 fluency
@@ -26,9 +26,9 @@ I'm a self-driven Cloud and DevOps Engineer in training — combining AWS, autom
 
 ---
 
-## 🎯 2025 Learning Goals
+## 🎯 2026 Learning Goals
 
-- 🚀 Pass the AWS Solutions Architect Associate (SAA) exam
+- 🚀 Pass the AWS Cloud Operations Associate exam
 - 🔧 Build and document 10+ DevOps and Cloud Engineering projects
 - ✍️ Publish weekly blogs on DevOps, AWS, and hands-on labs
 - 🎓 Apply to Master's programs in Finland (Åbo Akademi University and others)
@@ -45,12 +45,15 @@ Stay tuned! I'm currently preparing for my AWS SAA certification and will start 
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 My Blog Posts
 
 Follow my journey as I learn, build, and grow in public:
 
 - [How I Passed the AWS CCP Exam](https://hashnode.com/@CodeWithSolomon)
+- 
 - [My DevOps Learning Roadmap](https://dev.to/solomondev98)
+- [Medium Profile](https://medium.com/@solomonolungweonwi)
+
 
 (*More blog posts coming soon...*)
 
