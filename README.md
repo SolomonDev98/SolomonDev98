@@ -7,9 +7,6 @@ I'm a self-driven Cloud and DevOps Engineer in training — combining AWS, autom
 - 🎓 B.Tech in Electrical Engineering (Electronics)
 - ✅ AWS Certified Cloud Practitioner (CCP)
 - ✅ AWS Certified Solutions Architect Associate (SAA)
-- 🔧 Learning DevOps tools: Docker, Git, GitHub Actions, Terraform, Linux, Bash
-- 🌍 Based in Nigeria | 🇫🇮 Preparing for a Master’s in Information Technology in Finland
-- 🗣 Learning Finnish — aiming for B1 fluency
 
 ---
 
@@ -31,8 +28,6 @@ I'm a self-driven Cloud and DevOps Engineer in training — combining AWS, autom
 - 🚀 Pass the AWS Cloud Operations Associate exam
 - 🔧 Build and document 10+ DevOps and Cloud Engineering projects
 - ✍️ Publish weekly blogs on DevOps, AWS, and hands-on labs
-- 🎓 Apply to Master's programs in Finland (Åbo Akademi University and others)
-- 🌐 Land a cloud or DevOps engineering job (remote or relocation)
 
 ---
 
@@ -61,7 +56,7 @@ Follow my journey as I learn, build, and grow in public:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/solomon-softwareengineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/solomon-olungweonwi-250a913ab)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@CodeWithSolomon)
 [![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/solomondev98)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SolomonDev98)
