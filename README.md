@@ -4,11 +4,12 @@ Cloud & DevOps Engineer
 I'm an Electrical and Electronics Engineering graduate with a strong interest in cloud infrastructure, DevOps and platform engineering. I enjoy designing scalable cloud solutions, automating infrastructure and continuously improving my technical skills through hands-on projects and real-world collaboration.
 
 🎓 Education & Certifications
-B.Eng. Electrical and Electronics Engineering
+B.Eng. Electrical and Electronics Engineering 
 AWS Certified Solutions Architect – Associate
 AWS Certified Cloud Practitioner
----
 
+
+---
 ## 🧰 Tech Stack & Tools
 
 🛠 Tech Stack
