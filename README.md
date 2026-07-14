@@ -7,9 +7,8 @@ I'm an Electrical and Electronics Engineering graduate with a strong interest in
 
   B.Eng. Electrical and Electronics Engineering.
   
-  AWS Certified Solutions Architect – Associate.
-  
-  AWS Certified Cloud Practitioner.
+- 🏅 [AWS Certified Solutions Architect – Associate]([https://www.credly.com/badges/...](https://www.credly.com/badges/3753e338-9b24-40d7-8cb9-f98b5f188eda/public_url))
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/97bc74d7-00ae-4379-8ba4-9daa7c64b5f5/public_url)
 
 
 ---
