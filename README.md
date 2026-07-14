@@ -33,10 +33,9 @@ Operating Systems: Linux (Ubuntu, AlmaLinux)
 ---
 
 ## 🧩 Projects
-Spring PetClinic Microservices (Infrastructure Lead)
-EpicBook AWS Deployment
-Book Review Application
-Personal Finance Application
+- [🏥 Spring PetClinic Microservices (Infrastructure Lead)](https://github.com/SolomonDev98/PETCLINIC-PROJECT-GROUP-5)
+- [📚 EpicBook AWS Deployment](https://github.com/SolomonDev98/epicbook-prod)
+- [📖 Book Review Application](https://github.com/SolomonDev98/book-review-app)
 
 Each repository contains documentation, architecture diagrams and implementation details.
 ---
