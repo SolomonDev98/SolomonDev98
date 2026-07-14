@@ -1,43 +1,48 @@
-# 👋 Hi, I'm Solomon Nwachukwu Olungweonwi
+👋 Hi, I'm Solomon Nwachukwu Olungweonwi
+Cloud & DevOps Engineer
 
-## 🚀 About Me
+I'm an Electrical and Electronics Engineering graduate with a strong interest in cloud infrastructure, DevOps and platform engineering. I enjoy designing scalable cloud solutions, automating infrastructure and continuously improving my technical skills through hands-on projects and real-world collaboration.
 
-I'm a self-driven Cloud and DevOps Engineer in training — combining AWS, automation, and real-world engineering to build scalable systems. Passionate about learning in public and growing into a world-class engineer.
-
-- 🎓 B.Tech in Electrical Engineering (Electronics)
-- ✅ AWS Certified Cloud Practitioner (CCP)
-- ✅ AWS Certified Solutions Architect Associate (SAA)
-
+🎓 Education & Certifications
+B.Eng. Electrical and Electronics Engineering
+AWS Certified Solutions Architect – Associate
+AWS Certified Cloud Practitioner
 ---
 
 ## 🧰 Tech Stack & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+🛠 Tech Stack
 
+Cloud: AWS, Microsoft Azure
+
+Infrastructure as Code: Terraform
+
+Containers: Docker, Kubernetes
+
+CI/CD: GitHub Actions, Azure DevOps
+
+Monitoring: Prometheus, Grafana
+
+Languages: Python, Bash, JavaScript, SQL, C
+
+Operating Systems: Linux (Ubuntu, AlmaLinux)
 ---
 
 ## 🎯 2026 Learning Goals
 
-- 🚀 Pass the AWS Cloud Operations Associate exam
-- 🔧 Build and document 10+ DevOps and Cloud Engineering projects
-- ✍️ Publish weekly blogs on DevOps, AWS, and hands-on labs
-
+AWS Cloud Operations Associate
+Platform Engineering
+Advanced Kubernetes
+Cloud Observability
 ---
 
-## 🧩 Projects (Coming Soon)
+## 🧩 Projects
+Spring PetClinic Microservices (Infrastructure Lead)
+EpicBook AWS Deployment
+Book Review Application
+Personal Finance Application
 
-Stay tuned! I'm currently preparing for my AWS SAA certification and will start building real-world projects right after. I’ll be sharing:
-- 🚀 AWS-hosted infrastructure with Terraform
-- 🔁 CI/CD pipelines with GitHub Actions
-- 🗂️ Data Engineering pipelines using AWS native services
-
+Each repository contains documentation, architecture diagrams and implementation details.
 ---
 
 ## 📝 My Blog Posts
