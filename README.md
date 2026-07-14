@@ -33,7 +33,7 @@ Operating Systems: Linux (Ubuntu, AlmaLinux)
 ---
 
 ## 🧩 Projects
-- [🏥 Spring PetClinic Microservices (Infrastructure Lead)](https://github.com/SolomonDev98/PETCLINIC-PROJECT-GROUP-5)
+- [🏥 Spring PetClinic Microservices (Infrastructure Lead)](https://github.com/PETCLINIC-PROJECT-GROUP-5/spring-petclinic-microservices)
 - [📚 EpicBook AWS Deployment](https://github.com/SolomonDev98/epicbook-prod)
 - [📖 Book Review Application](https://github.com/SolomonDev98/book-review-app)
 
