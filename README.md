@@ -32,14 +32,6 @@ Languages: Python, Bash, JavaScript, SQL, C
 Operating Systems: Linux (Ubuntu, AlmaLinux)
 ---
 
-## 🎯 2026 Learning Goals
-
-AWS Cloud Operations Associate
-Platform Engineering
-Advanced Kubernetes
-Cloud Observability
----
-
 ## 🧩 Projects
 Spring PetClinic Microservices (Infrastructure Lead)
 EpicBook AWS Deployment
